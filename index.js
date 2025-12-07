@@ -12,4 +12,5 @@ function newfun() {
 
 function newFeature() {
     console.log("This is new Feature");
+    console.log("This is new Feature A");
 }
