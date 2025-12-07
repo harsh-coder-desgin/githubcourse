@@ -23,4 +23,6 @@ function newFeatureB() {
 function newFeatureC() {
     console.log("This is new Feature");
     console.log("This is new Feature C");
+    console.log("This is new Feature C");
+
 }
