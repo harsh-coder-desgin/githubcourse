@@ -1,5 +1,5 @@
 const age = 20
-const name1 ="abc"
+const name1 ="abc xyz"
 const date = '6/12/25'
 
 function sayName() {
