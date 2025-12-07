@@ -14,3 +14,8 @@ function newFeature() {
     console.log("This is new Feature");
     console.log("This is new Feature A");
 }
+
+function newFeatureB() {
+    console.log("This is new Feature");
+    console.log("This is new Feature B");
+}
